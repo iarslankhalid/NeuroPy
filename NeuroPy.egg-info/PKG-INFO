@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: NeuroPy
+Version: 0.0.4
+Summary: Neural Networks made from scratch
+Home-page: https://github.com/iarslankhalid/NeuroPy
+Author: Arslan Khalid
+Author-email: iarslankhalid@yahoo.com
+Project-URL: Source, https://github.com/iarslankhalid/NeuroPy
+Project-URL: Bug Reports, https://github.com/iarslankhalid/NeuroPy/issues
+Keywords: python,neural network,MLP,classification
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+
+This is my python package for neural networks

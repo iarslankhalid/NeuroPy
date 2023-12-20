@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.4'
 DESCRIPTION = 'Neural Networks made from scratch'
 LONG_DESCRIPTION = 'A package that can be used to make a neural network.'
 
@@ -25,7 +25,7 @@ setup(
     keywords=['python', 'neural network', 'MLP', 'classification'],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Users",
+        "Intended Audience :: Education",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
@@ -36,5 +36,5 @@ setup(
         "Source": "https://github.com/iarslankhalid/NeuroPy",
         "Bug Reports": "https://github.com/iarslankhalid/NeuroPy/issues",
     },
-    python_requires=">=3.6",
+    python_requires=">=3.10",
 )
